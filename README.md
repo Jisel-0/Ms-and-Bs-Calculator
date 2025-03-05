@@ -70,19 +70,33 @@ The script implements the following equations for Bs calculation:
 ## References
 
 [1] A. Saha Podder and H. K. D. H. Bhadeshia, "Thermal stability of austenite retained in bainitic steels," Materials Science and Engineering A, vol. 527, pp. 2121-2128, 2010.
+
 [2] Andrews, K. W. "Empirical formulae for the calculation of some transformation temperatures." J. Iron Steel Inst 203.7 (1965): 721-727.
+
 [3] Nehrenberg A. E., Discussion of ref. 18., Trans AIME, 167 (1956) 494-498.
+
 [4] W. Stevens and A. G. Haynes: J. Iron Steel Inst., 183 (1956), 349.
+
 [5] S. M. C. van Bohemen: Mater. Sci. Technol., 28 (2012), 487.
+
 [6] W. Stevens and A. G. Haynes: J. Iron Steel Inst., 183 (1956), 349.
+
 [7] Y. K. Lee: J. Mater. Sci., 21 (2002), 1253.
+
 [8] J. Zhao, C. Liu, Y. Liu and D. O. Northwood: J. Mater. Sci., 36(2001), 5045.
+
 [9] J. Zhao: Mater. Sci. Technol., 8 (1992), 1004.
-[10] R. L. Bodnar, T. Ohhashi and R. I. Jaffee: Metall. Trans. A, 20A (1989), 1445
+
+[10] R. L. Bodnar, T. Ohhashi and R. I. Jaffee: Metall. Trans. A, 20A (1989), 1445.
+
 [11] . S. Kirkaldy and D. Venugopalan: Phase Transformations in Ferrous Alloys, ed. by A. R. Marder and J. I. Goldstein, TMS-AIME, Warrendale, PA, (1984), 125.
+
 [12] M. Suehiro, T. Senuma, H. Yada, Y. Matsumura and T. Ariyoshi: Tetsu-to-Hagané, 73 (1987), 1026.
+
 [13] T. Kunitake and Y. Okada: J. Iron Steel Inst., 84 (1998), 137.
+
 [14] J. K. Lee: Prediction of Tensile Deformation Behavior of Formable Hot Rolled Steels. POSCO Technical Research Laboratories Report, POSCO, Pohang, Korea, (1999).
+
 [15] Trzaska, J. "Calculation of Critical Temperatures by Empirical Formulae." Archives of Metallurgy and Materials 61.2 (2016): 981-986.
 
 ## Contributions
