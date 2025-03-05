@@ -6,8 +6,8 @@ This project calculates the martensite start temperature (Ms) and bainite start 
 If the user knows the experimental Ms value, the program computes the percentage difference between the estimated and experimental values and visualizes the results.
 
 ## Features
-- Computes Ms using multiple empirical equations
-- Compares estimated Ms with an experimental value (if available)
+- Computes Ms and Bs using multiple empirical equations
+- Compares estimated Ms and Bs with an experimental value (if available)
 - Graphical visualization of the results
 - Supports a wide range of alloying elements
 
